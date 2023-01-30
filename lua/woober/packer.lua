@@ -75,5 +75,5 @@ use {
         require("config.nvimtree").setup()
     end,
 }
-use 'rstacruz/vim-closer'
+use "jiangmiao/auto-pairs"
 end)

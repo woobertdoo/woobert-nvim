@@ -79,6 +79,11 @@ _G.packer_plugins = {
     path = "/home/jamieharris/.local/share/nvim/site/pack/packer/start/LuaSnip",
     url = "https://github.com/L3MON4D3/LuaSnip"
   },
+  ["auto-pairs"] = {
+    loaded = true,
+    path = "/home/jamieharris/.local/share/nvim/site/pack/packer/start/auto-pairs",
+    url = "https://github.com/jiangmiao/auto-pairs"
+  },
   ["barbar.nvim"] = {
     loaded = true,
     path = "/home/jamieharris/.local/share/nvim/site/pack/packer/start/barbar.nvim",
@@ -199,11 +204,6 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/jamieharris/.local/share/nvim/site/pack/packer/start/undotree",
     url = "https://github.com/mbbill/undotree"
-  },
-  ["vim-closer"] = {
-    loaded = true,
-    path = "/home/jamieharris/.local/share/nvim/site/pack/packer/start/vim-closer",
-    url = "https://github.com/rstacruz/vim-closer"
   },
   ["vim-fugitive"] = {
     loaded = true,
