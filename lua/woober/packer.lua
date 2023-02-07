@@ -75,5 +75,7 @@ use {
         require("config.nvimtree").setup()
     end,
 }
+use "luk400/vim-jukit"
 use "jiangmiao/auto-pairs"
+use "sevko/vim-nand2tetris-syntax"
 end)
