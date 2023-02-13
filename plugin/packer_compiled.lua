@@ -210,11 +210,6 @@ _G.packer_plugins = {
     path = "/home/jamieharris/.local/share/nvim/site/pack/packer/start/vim-fugitive",
     url = "https://github.com/tpope/vim-fugitive"
   },
-  ["vim-jukit"] = {
-    loaded = true,
-    path = "/home/jamieharris/.local/share/nvim/site/pack/packer/start/vim-jukit",
-    url = "https://github.com/luk400/vim-jukit"
-  },
   ["vim-nand2tetris-syntax"] = {
     loaded = true,
     path = "/home/jamieharris/.local/share/nvim/site/pack/packer/start/vim-nand2tetris-syntax",
